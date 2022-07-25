@@ -1,3 +1,5 @@
+* Shellcheck Project
+
 # Loops, conditions and parsing
 
 In this project, I began working loops and conditionals statements in Bash.
@@ -103,3 +105,4 @@ tasks `102` and `103`.
   `OCCURRENCE_NUMBER IP HTTP_CODE`.
   * Logs are grouped in order of greatest to lowest number of visitors.
   * Uses `awk`.
+  

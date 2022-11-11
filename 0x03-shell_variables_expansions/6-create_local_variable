@@ -1,2 +1,2 @@
-#!/bi/bash
-export BETTY="Holberton"
+#!/bin/bash
+BEST="School"

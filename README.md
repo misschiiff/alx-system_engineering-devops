@@ -16,7 +16,7 @@ The specific list of projects contained follows:
 
 ## Author :black_nib:
 
-* __Oluwadamilola Olaniyi__ <[Oludammydy](https://github.com/Oludammydy)>
+* __BRIDGET_IZBA__ <[MISCHIF](https://github.com/misschiiff)>
 
 ## Acknowledgements :pray:
 
